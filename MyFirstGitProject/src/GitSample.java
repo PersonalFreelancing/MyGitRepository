@@ -22,6 +22,8 @@ public class GitSample {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Git I am uploading for first time");
+		
+		System.out.println("My first change");
 
 	}
 
